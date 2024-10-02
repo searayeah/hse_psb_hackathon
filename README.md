@@ -4,7 +4,7 @@
 - Binary classification
 - Tabular data
 - AUC ROC metric
-- [Not working leaderboard link](dsworks.ru/ru/champ/hse-2024-september)
+- [Not working leaderboard link](https://dsworks.ru/ru/champ/hse-2024-september)
 
 ## Final solution
 
