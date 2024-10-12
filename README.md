@@ -1,4 +1,4 @@
-# HSE PSB Hackathon
+# HSE PSB Hackathon winners coding part solution
 
 - [ВШЭ ПСБ.Хак](https://ai.hse.ru/hacks/psb24)
 - Binary classification
@@ -8,7 +8,8 @@
 
 ## Final solution
 
-A lot of feature engineering + [Autogluon](https://github.com/autogluon/autogluon)
+- A lot of feature engineering + [Autogluon](https://github.com/autogluon/autogluon)
+- Got 0.857 ROC AUC (top-2 on leaderboard)
 
 ## Report and thoughts in Russian
 
